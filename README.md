@@ -185,4 +185,4 @@ This project demonstrates how an interactive dashboard can transform financial d
 
 ## Dashboard Reference
 
-Built using Power BI based on the uploaded dashboard output. :contentReference[oaicite:0]{index=0}
+Built using Power BI based on the uploaded dashboard output
