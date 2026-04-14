@@ -25,14 +25,6 @@ The Financial Sample dataset contains business transaction data across products,
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-(Replace with your exported screenshot)
-
----
-
 ## Dashboard Components
 
 ### KPI Cards
